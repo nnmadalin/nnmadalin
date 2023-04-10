@@ -1,6 +1,18 @@
 # 💫 About Me:
-🧭 My name is Madalin.<br>⏳ I am 16 years old!<br>🔭 Now I work on f1-app<br>🎉 I am the creator of the JBOI 2022 website<br>📈 Now I work and manage the website of the Romanian National Informatics Olympiad, SEPI<br><br>2️⃣0️⃣2️⃣2️⃣ - 2️⃣0️⃣2️⃣3️⃣<br>🔴 I got the bronze medal at the National Information Technology Olympiad, category C# - 2022<br>🔝 I won first place at the IT Marathon contest, Desktop And Mobile Applications category, 2023<br>🔵 I won first place in the county at the 2023 County Informatics Olympiad<br>🪅 I won first place at the ProSoft@NT national contest, Soft Educational section<br>
+<b>
+🧭 My name is Madalin.
+<br>⏳ I am 16 years old!
+<br>🔭 Now I work on <a href = "https://github.com/nnmadalin/f1-app">f1-app</a>
+<br>🎉 I am the creator of the <a href = "jboi2022.lrmd.ro">JBOI 2022 website</a>
+<br>📈 Now I work and manage the website of the <a href = "https://www.sepi.ro">Romanian National Informatics Olympiad, SEPI</a>
+<br><br>
 
+2️⃣0️⃣2️⃣2️⃣ - 2️⃣0️⃣2️⃣3️⃣
+<br>🔴 I got the bronze medal at the National Information Technology Olympiad, category C# - 2022
+<br>🔝 I won first place at the IT Marathon contest, Desktop And Mobile Applications category, 2023
+<br>🔵 I won first place in the county at the 2023 County Informatics Olympiad
+<br>🪅 I won first place at the ProSoft@NT national contest, Soft Educational section<br>
+</b>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nnmadalin#9055) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nnmadalin) 
