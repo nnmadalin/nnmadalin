@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi 👋 height='26' alt='there'>, I'm Madalin
+    Hi 👋, I'm Madalin
 </h1>
 
 # 💫 About Me:
