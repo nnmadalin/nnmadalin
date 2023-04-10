@@ -3,7 +3,7 @@
 🧭 My name is Madalin.
 <br>⏳ I am 16 years old!
 <br>🔭 Now I work on <a href = "https://github.com/nnmadalin/f1-app">f1-app</a>
-<br>🎉 I am the creator of the <a href = "jboi2022.lrmd.ro">JBOI 2022 website</a>
+<br>🎉 I am the creator of the <a href = "https://jboi2022.lrmd.ro">JBOI 2022 website</a>
 <br>📈 Now I work and manage the website of the <a href = "https://www.sepi.ro">Romanian National Informatics Olympiad, SEPI</a>
 <br><br>
 
