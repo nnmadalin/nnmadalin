@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm Madalin</p>
-
+<br>
 <h1 align="center">💫 About Me: </h1>
 <h3 align="center">
 <b>
