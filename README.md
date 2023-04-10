@@ -1,6 +1,13 @@
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/greetings.gif" alt="Hello World" />
+</p>
+
+<h1 align="center">
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Madalin
+</h1>
+
 # 💫 About Me:
 <b>
-🧭 My name is Madalin.
 <br>🔭 Now I work on <a href = "https://github.com/nnmadalin/f1-app">f1-app</a>
 <br>🎉 I am the creator of the <a href = "https://jboi2022.lrmd.ro">JBOI 2022 website</a>
 <br>📈 Now I work and manage the website of the <a href = "https://www.sepi.ro">Romanian National Informatics Olympiad, SEPI</a>
