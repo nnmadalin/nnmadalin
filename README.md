@@ -13,6 +13,7 @@
 <br>🔝 I won first place at the IT Marathon contest, Desktop And Mobile Applications category, 2023 (<a href = "https://github.com/nnmadalin/Invite-for-a-break---ITMarathon">Repositories</a>)
 <br>🧭 I participated in the National Informatics competition "Moisil's Descendants", obtaining 9th place!
 <br>🫠 I won first place at the county Olympiad in information technology, qualifying for the national :) - 2023
+<br>🤩 I got the <b>5th place, mention and gold medal</b> at the Information Technology Olympiad
 </b>
 </h3>
  
