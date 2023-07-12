@@ -14,6 +14,7 @@
 <br>🧭 I participated in the National Informatics competition "Moisil's Descendants", obtaining 9th place! - 2023
 <br>🫠 I won first place at the county Olympiad in information technology, qualifying for the national :) - 2023
 <br>🤩 I got the <b>5th place, mention and gold medal</b> at the Information Technology Olympiad - 2023
+<br>😎 I won first place in the county at the Digital Innovation and Creation Olympiad, Soft Educational section, qualifying for the national - 2023
 </b>
 </h3>
  
