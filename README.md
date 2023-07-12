@@ -8,10 +8,10 @@
 
 2️⃣0️⃣2️⃣2️⃣ - 2️⃣0️⃣2️⃣3️⃣
 <br>🔴 I got the bronze medal at the National Information Technology Olympiad, category C# - 2022
-<br>🔵 I won first place in the county at the County Informatics Olympiad, qualifying for the national - 2022
+<br>🔵 I won first place at the County Informatics Olympiad, qualifying for the national - 2022
 <br>🪅 I won first place at the ProSoft@NT national contest, Soft Educational section  - 2023
 <br>🔝 I won first place at the IT Marathon contest, Desktop And Mobile Applications category - 2023 (<a href = "https://github.com/nnmadalin/Invite-for-a-break---ITMarathon">Repositories</a>)
-<br>😒 I won first place in the county at the County Informatics Olympiad - 2023
+<br>😒 I won first place at the County Informatics Olympiad - 2023
 <br>🧭 I participated in the National Informatics competition "Urmaşii lui Moisil", obtaining 9th place! - 2023
 <br>🫠 I won first place at the county Olympiad in information technology, qualifying for the national :) - 2023
 <br>🤩 I got the <b>5th place, mention and gold medal</b> at the Information Technology Olympiad - 2023
