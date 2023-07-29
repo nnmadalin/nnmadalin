@@ -3,7 +3,7 @@
 <h1 align="center">💫 About Me: </h1>
 <h3 align="center">
 
-<br> 💥 The creator of the website <a href = "https://jboi.lrmd.ro/" >Junior Balkan Olympiad in Informatics, JBOI</a> - 2022
+<br> 💥 The creator of the website <a href = "https://jboi2022.lrmd.ro/" >Junior Balkan Olympiad in Informatics, JBOI</a> - 2022
 <br> 💫 Website developer <a href = "https://sepi.ro/" >Society for Excellence and Performance in Computing, SEPI</a> - 2023
 
 <hr>
@@ -19,10 +19,10 @@
 <br> 🧠 1st place - Informatics Olympiad, County Stage
 <br> 👀 1st Place - Information Technology Olympiad, County Stage, Section C#
 <br> 🥇 5th Place, Mention, Gold Medal - Information Technology Olympiad, National Stage, C# Section
-<br> 🤖 1st place - ProSoft@NT National Contest, Educational Software Section
-<br> 👻 1st place - ITMarathon Contest, Mobile and Desktop Applications Section
+<br> 🤖 1st place - ProSoft@NT National Contest, Educational Software Section <a href = "https://github.com/nnmadalin/PROSOFT-NT---Exploratorul-Spatiului" >(Repository)</a>
+<br> 👻 1st place - ITMarathon Contest, Mobile and Desktop Applications Section <a href = "https://github.com/nnmadalin/Invite-for-a-break---ITMarathon" >(Repository)</a>
 <br> 🎊 9th place - National Informatics Competition "Moisil's Descendants"
-<br> 🎃 1st place - Innovation and Digital Creation Olympiad, County Stage, Educational Software Section
-<br> 🥉 9th Place, Bronze Medal - Innovation and Digital Creation Olympiad, National Stage, Educational Software Section
+<br> 🎃 1st place - Innovation and Digital Creation Olympiad, County Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
+<br> 🥉 9th Place, Bronze Medal - Innovation and Digital Creation Olympiad, National Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
 </h3>
  
