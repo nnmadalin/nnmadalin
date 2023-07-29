@@ -2,20 +2,39 @@
 <br>
 <h1 align="center">💫 About Me: </h1>
 <h3 align="center">
-<b>🎉 I am the creator of the <a href = "https://jboi2022.lrmd.ro">JBOI 2022 website</a>
-<br>📈 Now I work and manage the website of the <a href = "https://www.sepi.ro">Romanian National Informatics Olympiad, SEPI</a>
-<br><br>
 
-2️⃣0️⃣2️⃣2️⃣ - 2️⃣0️⃣2️⃣3️⃣
-<br>🔴 I got the bronze medal at the National Information Technology Olympiad, category C# - 2022
-<br>🔵 I won first place at the County Informatics Olympiad, qualifying for the national - 2022
-<br>🪅 I won first place at the ProSoft@NT national contest, Educational Software section  - 2023 (<a href = "https://github.com/nnmadalin/PROSOFT-NT---Exploratorul-Spatiului">Repositories</a>)
-<br>🔝 I won first place at the IT Marathon contest, Desktop And Mobile Applications category - 2023 (<a href = "https://github.com/nnmadalin/Invite-for-a-break---ITMarathon">Repositories</a>)
-<br>😒 I won first place at the County Informatics Olympiad - 2023
-<br>🧭 I participated in the National Informatics competition "Urmaşii lui Moisil", obtaining 9th place! - 2023
-<br>🫠 I won first place at the county Olympiad in information technology, qualifying for the national :) - 2023
-<br>🤩 I got the <b>5th place, mention and gold medal</b> at the National Information Technology Olympiad - 2023
-<br>😎 I won first place in the county at the Digital Innovation and Creation Olympiad, Educational Software section, qualifying for the national - 2023
-</b>
+<br> 💥 The creator of the website Junior Balkan Olympiad in Informatics, JBOI - 2022
+
+<br> 💫 Website developer Society for Excellence and Performance in Computing, SEPI - 2023
+
+
+<br>
+2️⃣0️⃣2️⃣2️⃣
+
+<br>✨️ 1st place - Information Technology Olympiad, County Stage
+
+<br> 🥉 Bronze medal - Information Technology Olympiad, National Stage
+
+<br> 👾 1st place - Informatics Olympiad, County Stage
+
+
+<br>
+2️⃣0️⃣2️⃣3️⃣
+
+<br> 🧠 1st place - Informatics Olympiad, County Stage
+
+<br> 👀 1st Place - Information Technology Olympiad, County Stage, Section C#
+
+<br> 🥇 5th Place, Mention, Gold Medal - Information Technology Olympiad, National Stage, C# Section
+
+<br> 🤖 1st place - ProSoft@NT National Contest, Educational Software Section
+
+<br> 👻 1st place - ITMarathon Contest, Mobile and Desktop Applications Section
+
+<br> 🎊 9th place - National Informatics Competition "Moisil's Descendants"
+
+<br> 🎃 1st place - Innovation and Digital Creation Olympiad, County Stage, Educational Software Section
+
+<br> 🥉 9th Place, Bronze Medal - Innovation and Digital Creation Olympiad, National Stage, Educational Software Section
 </h3>
  
