@@ -3,7 +3,7 @@
 <h1 align="left">💫 About Me: </h1>
 <h3 align="left">
 <br> 💥 The creator of the website <a href = "https://jboi2022.lrmd.ro/" >Junior Balkan Olympiad in Informatics, JBOI</a> - 2022
-<br> 💫 Website developer <a href = "https://sepi.ro/" >Society for Excellence and Performance in Computing, SEPI</a> - 2023
+<br> 💫 The creator of the website <a href = "https://sepi.ro/" >Society for Excellence and Performance in Computing, SEPI</a> - 2023
 
 <hr>
 
