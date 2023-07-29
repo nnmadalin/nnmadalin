@@ -1,6 +1,6 @@
 # <p align="center">Hi👋, I'm Madalin</p>
 <br>
-<h1 align="center">💫 About Me: </h1>
+<h1 align="left">💫 About Me: </h1>
 <h3 align="left">
 
 <br> 💥 The creator of the website <a href = "https://jboi2022.lrmd.ro/" >Junior Balkan Olympiad in Informatics, JBOI</a> - 2022
