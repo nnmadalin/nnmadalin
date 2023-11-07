@@ -23,5 +23,6 @@
 <br> 🎊 9th place - National Informatics Competition "Moisil's Descendants"
 <br> 🎃 1st place - Innovation and Digital Creation Olympiad, County Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
 <br> 🥉 9th Place, Bronze Medal - Innovation and Digital Creation Olympiad, National Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
+<br> 🥇 1st Place - Code Envision - Smart solutions to community problems <a href = "https://github.com/nnmadalin/Code-Envision" >(Repository)</a>
 </h3>
  
