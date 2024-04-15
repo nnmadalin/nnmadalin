@@ -24,10 +24,13 @@
 <br> 🎃 1st place - Innovation and Digital Creation Olympiad, County Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
 <br> 🥉 9th Place, Bronze Medal - Innovation and Digital Creation Olympiad, National Stage, Educational Software Section <a href = "https://github.com/nnmadalin/SchoolSync" >(Repository)</a>
 <br> 🥇 1st Place - Code Envision - Smart solutions to community problems <a href = "https://github.com/nnmadalin/Code-Envision" >(Repository)</a>
-</h3>
+
 
 <hr>
 
 2️⃣0️⃣2️⃣4️⃣
 <br> 🥉 4h place - ProSoft@NT National Contest, Web Section
 <br> 🚀 2nd place - Cyber Security Olympiad, County Stage
+
+
+</h3>
