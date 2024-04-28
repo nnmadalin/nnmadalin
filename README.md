@@ -31,6 +31,8 @@
 2️⃣0️⃣2️⃣4️⃣
 <br> 🥉 4h place - ProSoft@NT National Contest, Web Section
 <br> 🚀 2nd place - Cyber Security Olympiad, County Stage
-
+<br> 🎃 2nd place - Cyber Security Olympiad, County Stage
+<br> 👽 1nd place - Information Technology Olympiad, County Stage, Section C#
+<br> 📱 1st place - ITMarathon Contest, Web Developer Section
 
 </h3>
