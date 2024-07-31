@@ -29,10 +29,11 @@
 <hr>
 
 2️⃣0️⃣2️⃣4️⃣
-<br> 🥉 4h place - ProSoft@NT National Contest, Web Section
-<br> 🚀 2nd place - Cyber Security Olympiad, County Stage
-<br> 🎃 2nd place - Cyber Security Olympiad, County Stage
-<br> 👽 1nd place - Information Technology Olympiad, County Stage, Section C#
-<br> 📱 1st place - ITMarathon Contest, Web Developer Section
+<br> 🥉 Place 4h - ProSoft@NT National Contest, Web Section
+<br> 🚀 2nd place - Cyber ​​Security Olympiad, County Stage
+<br> 👽 1st Place - Information Technology Olympiad, County Stage, Section C#
+<br> 📱 1st Place - ITMarathon Contest, Web Developers Section
+<br> 🎃 21st place - Cyber ​​Security Olympiad, National Stage
+<br> 🚀 6th Place, Mention, Gold Medal - Information Technology Olympiad, County Stage, Section C#
 
 </h3>
